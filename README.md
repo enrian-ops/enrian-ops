@@ -1,0 +1,4 @@
+- 👋 Hi, I’m [@enrian-ops](https://github.com/enrian-ops)
+- 👀 I’m interested in automating tasks
+- 🌱 I’m currently learning to reduce human assistance
+- 💞️ I’m looking to collaborate on [@enrian](https://github.com/enrian) projects!
